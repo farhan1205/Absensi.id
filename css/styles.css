@@ -138,6 +138,9 @@ strong {
   font-weight: bolder;
 }
 
+div .docs{
+  background-color: #0f6674;
+}
 small {
   font-size: 80%;
 }
